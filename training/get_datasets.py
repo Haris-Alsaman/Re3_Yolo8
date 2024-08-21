@@ -12,12 +12,12 @@ def get_data_for_dataset(dataset_name, mode):
     # Implement this for each dataset.
     dataset = None
     if dataset_name == "imagenet_video":
-        image_datadir = os.path.join(DATA_DIR, "Imagenet_Video", "provided_small")
+        image_datadir = os.path.join(DATA_DIR, "imagenet_video", "provided_small")
         datadir = os.path.join(os.path.dirname(__file__), "datasets", "imagenet_video")
         gt = np.load(datadir + "/labels/" + mode + "/labels_small_boxes.npy")
         print("image_datadir: ", image_datadir)
         image_paths = [
-            image_datadir + "/" + line.strip() for line in open(datadir + "/labels/" + mode + "/image_names.txt")
+            image_datadir  + line.strip() for line in open(datadir + "/labels/" + mode + "/image_names.txt")
         ]
 
         """

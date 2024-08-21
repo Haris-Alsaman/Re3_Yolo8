@@ -1918,3 +1918,3203 @@ Traceback (most recent call last):
     image = cv2.imread(path)[:, :, ::-1]
             ~~~~~~~~~~~~~~~~^^^^^^^^^^^^
 TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable
+exception in lookup_func 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/fs/Re3_Yolo8/training/pt_dataset.py", line 82, in lookup_func
+    image = cv2.imread(path)[:, :, ::-1]
+TypeError: 'NoneType' object is not subscriptable

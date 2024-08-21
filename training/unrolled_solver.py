@@ -41,10 +41,11 @@ def main(args):
     batch_size = args.batch_size
     timing = args.timing
     debug = args.debug or args.output
-    if GPU_ID == "cpu":
-        device = "cpu"
-    else:
-        device = pt_util.setup_devices(args.device)[0]
+    # if GPU_ID == "cpu":
+    #     device = "cpu"
+    # else:
+    device = pt_util.setup_devices(args.device)[0]
+    print("it is GPU")
     np.set_printoptions(suppress=True)
     np.set_printoptions(precision=4)
 

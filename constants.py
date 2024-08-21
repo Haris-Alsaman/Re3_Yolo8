@@ -13,9 +13,9 @@ DATA_DIR = os.path.join(
     os.path.dirname(__file__), "training/", "datasets"
 )
 
-GPU_ID = "cpu" # for CPU
+# GPU_ID = "cpu" # for CPU
 
-# GPU_ID = 0 # for GPU
+GPU_ID = 0 # for GPU
 
 # Drawing constants
 OUTPUT_WIDTH = 640
