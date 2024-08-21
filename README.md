@@ -1,7 +1,7 @@
 # Re3 in PyTorch
 [Re3: Real-Time Recurrent Regression Networks for Visual Tracking of Generic Objects](https://danielgordon10.github.io/pdfs/re3.pdf)
 
-<img src="/demo/sample_1.gif" height="300"/> <img src="/demo/sample_2.gif" height="300"/>
+<!-- <img src="/demo/sample_1.gif" height="300"/> <img src="/demo/sample_2.gif" height="300"/> -->
 
 
 ## Project Objective
@@ -43,27 +43,26 @@ after that you have run from training folder
 ```bash
 python unrolled_solver.py -rtc -n 2 -b 64
 ```
-###  Folder Structure
+### Folder Structure
 
- - **training/**
-    - **datasets/**
-      - **Imagenet_Video/**
-          - **provided_small/**
-                - **video_1/**
-                    -000001.jpg
-                    -000002.jpg
-                    -....
-                    - **video_2/**
-                    -000001.jpg
-                    -000002.jpg
-                    -....
-          - **labels/**
-               -labels_small_boxes.npy
-               -image_names.txt
-          - **val/**
-               -labels_small_boxes.npy
-               -image_names.txt
-
+- **training/**
+  - **datasets/**
+    - **Imagenet_Video/**
+      - **provided_small/**
+        - **video_1/**
+          - `000001.jpg`
+          - `000002.jpg`
+          - ...
+        - **video_2/**
+          - `000001.jpg`
+          - `000002.jpg`
+          - ...
+      - **labels/**
+        - `labels_small_boxes.npy`
+        - `image_names.txt`
+      - **val/**
+        - `labels_small_boxes.npy`
+        - `image_names.txt`
 
 This is the Official Repository for Re3 in PyTorch. However, it has some significant differences between it and the [TensorFlow repository](https://github.com/danielgordon10/re3-tensorflow).
 1. Due to PyTorch's dynamic graph construction, the network can now be trained one unroll at a time. This means less time preprocessing the images, but also it doesn't parallelize as well.
