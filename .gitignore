@@ -1,0 +1,10 @@
+demo/data
+/*.mp4
+logs/
+re3_utils/__pycache__
+re3_utils/util/__pycache__
+re3_utils/util/__pycache__
+__pycache__
+tracker/__pycache__/
+best.pt
+training/datasets/imagenet_video/provided_small/20190926_183400_1_7/
