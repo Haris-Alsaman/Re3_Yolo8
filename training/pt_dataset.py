@@ -78,7 +78,7 @@ class VideoDataset(torch.utils.data.Dataset):
             ind = key[-1]
             for dd in range(self.num_unrolls):
                 path = self.image_paths[key[0]][ind + dd]
-                print("path: ", path)
+                # print("path: ", path)
                 image = cv2.imread(path)[:, :, ::-1]
                 images.append(image)
                 new_key = list(key)

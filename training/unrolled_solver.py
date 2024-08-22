@@ -27,7 +27,7 @@ from constants import OUTPUT_HEIGHT
 from re3_utils.pytorch_util import tensorboard_logger
 
 
-NUM_ITERATIONS = int(1e6)
+NUM_ITERATIONS = 2000
 REAL_MOTION_PROB = 1.0 / 8
 USE_NETWORK_PROB = 0.5
 
