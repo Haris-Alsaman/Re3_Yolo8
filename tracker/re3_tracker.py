@@ -29,7 +29,7 @@ class Re3Tracker(object):
         if GPU_ID == "cpu":
             gpu_id = "cpu"
         else:
-            gpu_id = pt_util.setup_devices(gpu_id)[0]
+            gpu_id = pt_util.setup_devices(GPU_ID)[0]
         if USE_SMALL_NET:
             self.network = Re3SmallNet(gpu_id)
             pt_util.restore_from_folder(self.network, os.path.join(LOG_DIR, "checkpoints_small"))
