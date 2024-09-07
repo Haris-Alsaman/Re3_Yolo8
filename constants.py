@@ -1,6 +1,6 @@
 # Network Constants
 
-USE_SMALL_NET = True
+USE_SMALL_NET = False
 
 CROP_SIZE = 227
 CROP_PAD = 2

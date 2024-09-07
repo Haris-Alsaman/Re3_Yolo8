@@ -118,18 +118,18 @@ def main():
     model_path = "best.pt"
     video_path = "one4.mp4"
     output_path = "sonuc.mp4"
-    gst_pipeline = (
-    "udpsrc port=5600 "
-    "caps=\"application/x-rtp, media=(string)video, clock-rate=(int)90000, encoding-name=(string)H264\" "
-    "! rtph264depay "
-    "! avdec_h264 "
-    "! videoconvert "
-    "! appsink emit-signals=True sync=False"
-)
+#     gst_pipeline = (
+#     "udpsrc port=5600 "
+#     "caps=\"application/x-rtp, media=(string)video, clock-rate=(int)90000, encoding-name=(string)H264\" "
+#     "! rtph264depay "
+#     "! avdec_h264 "
+#     "! videoconvert "
+#     "! appsink emit-signals=True sync=False"
+# )
 
     model = initialize_model(model_path)
-    # cap, out = initialize_video(video_path, output_path)
-    cap, out = initialize_video_stream(gst_pipeline, output_path)
+    cap, out = initialize_video(video_path, output_path)
+    # cap, out = initialize_video_stream(gst_pipeline, output_path)
     w, h, fps = (int(cap.get(x)) for x in (cv2.CAP_PROP_FRAME_WIDTH, cv2.CAP_PROP_FRAME_HEIGHT, cv2.CAP_PROP_FPS))
     left_margin = int(w * 0.25)
     right_margin = int(w * 0.75)
@@ -161,7 +161,7 @@ def main():
             print("Normal Mode")
             frame, is_initialized, initial_bbox ,is_centered, centered_time , centered_count =  process_frame_tracker(frame, model, tracker, is_initialized, initial_bbox,left_margin, right_margin, top_margin, bottom_margin ,border_color, box_thickness ,is_centered, centered_time,w,h ,centered_count)
         out.write(frame)
-        cv2.imshow('scanner', frame)
+        # cv2.imshow('scanner', frame)
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
 
